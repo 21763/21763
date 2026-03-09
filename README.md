@@ -1,3 +1,10 @@
 insert graphc her
 
-info info info idk
+<details>
+  <summary> $\huge{\textsf{title}}$ </summary>
+ <div align="left">
+
+- text
+- text
+- text
+<div align="left">
