@@ -1,12 +1,12 @@
 insert graphc her
-
+<br/> c * h ok unless dni , dncopy , cover comf
 <details>
-  <summary> $\huge{\textsf{title}}$ </summary>
+  <summary> $\huge{\textsf{ext pt}}$ </summary>
  <div align="left">
 
-- text
-- text
-- text
+- please int before friend requesting me ,,
+- no rp unless friend yes ? yes ,, and by that i mean like full story line rp 
+- please cover me i like being covered thank you heart shape
 </div>
 </details>
 <details>
