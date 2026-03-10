@@ -38,4 +38,4 @@ interact with (extra) caution :
 </div>
 </details>
 
->thank you @crackpawt for script .!
+>thank you [@molly](https://github.com/crackpawt) for script .!
