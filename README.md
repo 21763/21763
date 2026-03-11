@@ -1,4 +1,5 @@
 <div align=center>
+![](https://komarev.com/ghpvc/?username=21763&color=9ca988&style=flat&label=dreams)
 <img width="500" alt="oldest dream , vee" src="https://github.com/user-attachments/assets/a4ac9eac-a4b7-46e4-829e-a87181a5c079" />
 <br/> c * h ok unless dni , dncopy , cover comf
 <details>
